@@ -1,0 +1,5 @@
+name: CameraServoTest
+description: "Rotate the camera servo connected to Servo 1."
+ports: []
+bricks: []
+icon: ""

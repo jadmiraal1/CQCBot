@@ -1,0 +1,5 @@
+name: CameraTest
+description: "Show a live preview from the USB camera connected to the UNO Q."
+ports: [8766]
+bricks: []
+icon: ""
